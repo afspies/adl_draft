@@ -1,8 +1,12 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+# Page Info
+title: Advanced Deep Learning
+description: Advanced Deep Learning course webpage, containing materials, exercises and lectures for the course.
+url: https://afspies.github.io
+
+# Styling
 theme: just-the-docs
+color_scheme: dark
 
-url: https://just-the-docs.github.io
-
+# Navigation
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
